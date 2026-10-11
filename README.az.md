@@ -25,7 +25,7 @@ Hər qeydə düzgün **Nyu-York sessiyası**, **makro pəncərəsi** və **taymf
 - Redaktə oluna bilən sessiya və makro pəncərələri, əlavə xüsusi sahələr, tünd / açıq / avtomatik mövzu.
 - DLL yoxdur, internet girişi yoxdur: kompüterinizdən heç nə kənara çıxmır.
 
-<a href="https://youtu.be/CbZ8fmYc9Nw"><img src="https://img.youtube.com/vi/CbZ8fmYc9Nw/hqdefault.jpg" alt="watch the video" width="600"></a>
+<p align="center"><a href="https://youtu.be/CbZ8fmYc9Nw"><img src="https://img.youtube.com/vi/CbZ8fmYc9Nw/hqdefault.jpg" alt="Videoya bax" width="600"></a><br>▶️ <a href="https://youtu.be/CbZ8fmYc9Nw">Videonu YouTube-da izlə</a></p>
 
 ## Ekran görüntüləri
 
