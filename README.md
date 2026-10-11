@@ -26,11 +26,8 @@ Every note is tagged with the right **New York session**, **macro window** and *
 - No DLLs, no internet access: nothing leaves your computer.
 ## Video tutorial
 
-[
+<a href="https://youtu.be/CbZ8fmYc9Nw"><img src="https://img.youtube.com/vi/CbZ8fmYc9Nw/hqdefault.jpg" alt="Watch the video" width="600"></a>
 
-![Watch the video](https://img.youtube.com/vi/CbZ8fmYc9Nw/hqdefault.jpg)
-
-](https://youtu.be/CbZ8fmYc9Nw)
 ## Screenshots
 
 <p align="center"><img src="images/overview.png" alt="MET on a chart: panel on the right, settings window on the left" width="820"><br><sub>MET on a chart: panel on the right, settings window on the left</sub></p>
