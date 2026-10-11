@@ -25,6 +25,29 @@ Her nota doğru **New York seansı**, **makro penceresi** ve **zaman dilimi (tim
 - Düzenlenebilir seans ve makro pencereleri, ek özel alanlar, koyu / açık / otomatik tema.
 - DLL yok, internet erişimi yok: bilgisayarınızdan hiçbir şey dışarı çıkmaz.
 
+## Ekran görüntüleri
+
+<p align="center"><img src="images/overview.png" alt="Grafikte MET: sağda panel, solda ayarlar penceresi" width="820"><br><sub>Grafikte MET: sağda panel, solda ayarlar penceresi</sub></p>
+
+<table align="center">
+<tr>
+<td align="center"><img src="images/panel.png" alt="Grafikteki panel" width="400"><br><sub>Grafikteki panel</sub></td>
+<td align="center"><img src="images/settings-export.png" alt="Ayarlar: Export" width="400"><br><sub>Ayarlar: Export</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-fields.png" alt="Ayarlar: Fields" width="400"><br><sub>Ayarlar: Fields</sub></td>
+<td align="center"><img src="images/settings-timezones.png" alt="Ayarlar: Time Zones" width="400"><br><sub>Ayarlar: Time Zones</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-sessions.png" alt="Ayarlar: Sessions" width="400"><br><sub>Ayarlar: Sessions</sub></td>
+<td align="center"><img src="images/settings-advanced.png" alt="Ayarlar: Advanced" width="400"><br><sub>Ayarlar: Advanced</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-about.png" alt="Ayarlar: About" width="400"><br><sub>Ayarlar: About</sub></td>
+<td align="center"><img src="images/note-example.png" alt="Obsidian'da dışa aktarılmış bir not" width="400"><br><sub>Obsidian'da dışa aktarılmış bir not</sub></td>
+</tr>
+</table>
+
 ## Gereksinimler
 
 - MetaTrader 5 (masaüstü sürümü), herhangi bir broker, demo veya gerçek hesap.

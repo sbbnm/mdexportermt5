@@ -27,6 +27,29 @@ MET یک اکسپرت برای متاتریدر ۵ است. این اکسپرت *
 - سشن‌ها و ماکروهای قابل ویرایش، افزودن فیلد دلخواه، تم تیره / روشن / خودکار.
 - بدون DLL و بدون اینترنت؛ هیچ چیز از کامپیوتر شما خارج نمی‌شود.
 
+## تصاویر
+
+<p align="center"><img src="images/overview.png" alt="MET روی چارت: پنل در سمت راست و پنجره‌ی تنظیمات در سمت چپ" width="820"><br><sub>MET روی چارت: پنل در سمت راست و پنجره‌ی تنظیمات در سمت چپ</sub></p>
+
+<table align="center">
+<tr>
+<td align="center"><img src="images/panel.png" alt="پنل روی چارت" width="400"><br><sub>پنل روی چارت</sub></td>
+<td align="center"><img src="images/settings-export.png" alt="تنظیمات: Export" width="400"><br><sub>تنظیمات: Export</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-fields.png" alt="تنظیمات: Fields" width="400"><br><sub>تنظیمات: Fields</sub></td>
+<td align="center"><img src="images/settings-timezones.png" alt="تنظیمات: Time Zones" width="400"><br><sub>تنظیمات: Time Zones</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-sessions.png" alt="تنظیمات: Sessions" width="400"><br><sub>تنظیمات: Sessions</sub></td>
+<td align="center"><img src="images/settings-advanced.png" alt="تنظیمات: Advanced" width="400"><br><sub>تنظیمات: Advanced</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-about.png" alt="تنظیمات: About" width="400"><br><sub>تنظیمات: About</sub></td>
+<td align="center"><img src="images/note-example.png" alt="یک نوت اکسپورت‌شده در Obsidian" width="400"><br><sub>یک نوت اکسپورت‌شده در Obsidian</sub></td>
+</tr>
+</table>
+
 ## پیش‌نیازها
 
 - متاتریدر ۵ (نسخه‌ی دسکتاپ)، با هر بروکری، دمو یا واقعی.

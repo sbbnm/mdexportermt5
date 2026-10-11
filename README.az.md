@@ -25,6 +25,29 @@ Hər qeydə düzgün **Nyu-York sessiyası**, **makro pəncərəsi** və **taymf
 - Redaktə oluna bilən sessiya və makro pəncərələri, əlavə xüsusi sahələr, tünd / açıq / avtomatik mövzu.
 - DLL yoxdur, internet girişi yoxdur: kompüterinizdən heç nə kənara çıxmır.
 
+## Ekran görüntüləri
+
+<p align="center"><img src="images/overview.png" alt="Qrafikdə MET: sağda panel, solda parametrlər pəncərəsi" width="820"><br><sub>Qrafikdə MET: sağda panel, solda parametrlər pəncərəsi</sub></p>
+
+<table align="center">
+<tr>
+<td align="center"><img src="images/panel.png" alt="Qrafikdəki panel" width="400"><br><sub>Qrafikdəki panel</sub></td>
+<td align="center"><img src="images/settings-export.png" alt="Parametrlər: Export" width="400"><br><sub>Parametrlər: Export</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-fields.png" alt="Parametrlər: Fields" width="400"><br><sub>Parametrlər: Fields</sub></td>
+<td align="center"><img src="images/settings-timezones.png" alt="Parametrlər: Time Zones" width="400"><br><sub>Parametrlər: Time Zones</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-sessions.png" alt="Parametrlər: Sessions" width="400"><br><sub>Parametrlər: Sessions</sub></td>
+<td align="center"><img src="images/settings-advanced.png" alt="Parametrlər: Advanced" width="400"><br><sub>Parametrlər: Advanced</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-about.png" alt="Parametrlər: About" width="400"><br><sub>Parametrlər: About</sub></td>
+<td align="center"><img src="images/note-example.png" alt="Obsidian-da ixrac olunmuş qeyd" width="400"><br><sub>Obsidian-da ixrac olunmuş qeyd</sub></td>
+</tr>
+</table>
+
 ## Tələblər
 
 - MetaTrader 5 (masaüstü versiyası), istənilən broker, demo və ya real hesab.

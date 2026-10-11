@@ -25,6 +25,29 @@ Every note is tagged with the right **New York session**, **macro window** and *
 - Editable sessions and macro windows, extra custom fields, dark / light / auto theme.
 - No DLLs, no internet access: nothing leaves your computer.
 
+## Screenshots
+
+<p align="center"><img src="images/overview.png" alt="MET on a chart: panel on the right, settings window on the left" width="820"><br><sub>MET on a chart: panel on the right, settings window on the left</sub></p>
+
+<table align="center">
+<tr>
+<td align="center"><img src="images/panel.png" alt="The panel on the chart" width="400"><br><sub>The panel on the chart</sub></td>
+<td align="center"><img src="images/settings-export.png" alt="Settings: Export" width="400"><br><sub>Settings: Export</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-fields.png" alt="Settings: Fields" width="400"><br><sub>Settings: Fields</sub></td>
+<td align="center"><img src="images/settings-timezones.png" alt="Settings: Time Zones" width="400"><br><sub>Settings: Time Zones</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-sessions.png" alt="Settings: Sessions" width="400"><br><sub>Settings: Sessions</sub></td>
+<td align="center"><img src="images/settings-advanced.png" alt="Settings: Advanced" width="400"><br><sub>Settings: Advanced</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/settings-about.png" alt="Settings: About" width="400"><br><sub>Settings: About</sub></td>
+<td align="center"><img src="images/note-example.png" alt="An exported note in Obsidian" width="400"><br><sub>An exported note in Obsidian</sub></td>
+</tr>
+</table>
+
 ## Requirements
 
 - MetaTrader 5 desktop (any broker, demo or live account).
