@@ -24,7 +24,7 @@ Her nota doğru **New York seansı**, **makro penceresi** ve **zaman dilimi (tim
 - Broker saat diliminin otomatik tespiti veya herhangi bir UTC farkı ve yaz saati (DST) kuralıyla manuel ayar.
 - Düzenlenebilir seans ve makro pencereleri, ek özel alanlar, koyu / açık / otomatik tema.
 - DLL yok, internet erişimi yok: bilgisayarınızdan hiçbir şey dışarı çıkmaz.
-
+<p align="center"><a href="https://youtu.be/CbZ8fmYc9Nw"><img src="https://img.youtube.com/vi/CbZ8fmYc9Nw/hqdefault.jpg" alt="Videoyu izle" width="600"></a><br>▶️ <a href="https://youtu.be/CbZ8fmYc9Nw">Videoyu YouTube'da izle</a></p>
 ## Ekran görüntüleri
 
 <p align="center"><img src="images/overview.png" alt="Grafikte MET: sağda panel, solda ayarlar penceresi" width="820"><br><sub>Grafikte MET: sağda panel, solda ayarlar penceresi</sub></p>
