@@ -26,8 +26,7 @@ MET یک اکسپرت برای متاتریدر ۵ است. این اکسپرت *
 - تشخیص خودکار منطقه‌ی زمانی بروکر، یا تنظیم دستی با هر آفست UTC و قانون ساعت تابستانی (DST).
 - سشن‌ها و ماکروهای قابل ویرایش، افزودن فیلد دلخواه، تم تیره / روشن / خودکار.
 - بدون DLL و بدون اینترنت؛ هیچ چیز از کامپیوتر شما خارج نمی‌شود.
-##تماشای ویدیو<a href="https://youtu.be/CbZ8fmYc9Nw"><img src="https://img.youtube.com/vi/CbZ8fmYc9Nw/hqdefault.jpg" alt="تماشای ویدیو" width="600"></a>
-
+<p align="center"><a href="https://youtu.be/CbZ8fmYc9Nw"><img src="https://img.youtube.com/vi/CbZ8fmYc9Nw/hqdefault.jpg" alt="تماشای ویدیو" width="600"></a><br>▶️ <a href="https://youtu.be/CbZ8fmYc9Nw">تماشای ویدیو در یوتیوب</a></p>
 ## تصاویر
 
 <p align="center"><img src="images/overview.png" alt="MET روی چارت: پنل در سمت راست و پنجره‌ی تنظیمات در سمت چپ" width="820"><br><sub>MET روی چارت: پنل در سمت راست و پنجره‌ی تنظیمات در سمت چپ</sub></p>
