@@ -11,7 +11,7 @@
 </div>
 
 ---
-
+▶️ [Watch on YouTube](https://youtu.be/CbZ8fmYc9Nw)
 MET is an Expert Advisor for MetaTrader 5. It **does not trade**. It only reads your closed positions and writes each one as a `.md` note, ready to drop into an Obsidian vault.
 
 Every note is tagged with the right **New York session**, **macro window** and **timeframe**, even if your broker's server time zone is different from New York (the conversion is done for you, including summer/winter time).
