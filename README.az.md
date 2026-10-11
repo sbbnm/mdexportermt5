@@ -24,6 +24,8 @@ Hər qeydə düzgün **Nyu-York sessiyası**, **makro pəncərəsi** və **taymf
 - Broker saat qurşağının avtomatik təyini və ya istənilən UTC fərqi və yay saatı (DST) qaydası ilə əl ilə tənzimləmə.
 - Redaktə oluna bilən sessiya və makro pəncərələri, əlavə xüsusi sahələr, tünd / açıq / avtomatik mövzu.
 - DLL yoxdur, internet girişi yoxdur: kompüterinizdən heç nə kənara çıxmır.
+- 
+<a href="https://youtu.be/CbZ8fmYc9Nw"><img src="https://img.youtube.com/vi/CbZ8fmYc9Nw/hqdefault.jpg" alt="Video telimat" width="600"></a>
 
 ## Ekran görüntüləri
 
